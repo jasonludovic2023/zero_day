@@ -1,2 +1,1 @@
-zero day
-# zero_day
+zero day file
